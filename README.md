@@ -1,3 +1,3 @@
 # Ryciny
-Tworzenie rycin do pracy magisterskiej Ani
+Tworzenie rycin do pracy magisterskiej Ani Januszyk
 
